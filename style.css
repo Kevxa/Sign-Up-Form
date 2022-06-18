@@ -142,15 +142,13 @@ button:active {
     margin-top: 12px;
 }
 
+.last{
+    padding-bottom: 20px;
+}
 
 .login a {
     color: green;
 }
-
-.last {
-    padding-bottom: 20px;
-}
-
 
 input[type=number] {
     -moz-appearance: textfield;
